@@ -2,7 +2,7 @@
 Call of Duty Zombies powerups in Minecraft!
 # 
 ![Screenshot (914)](https://github.com/user-attachments/assets/f0b5b535-ce96-44e3-ba5e-22eab4ef3a9d)
-Powerups provide benefits to the players that have various affects on them and the mobs. These benefits range from healing the durability of every single item in player's inventories to killing most hostile mobs.
+Powerups provide benefits to the players that have various effects on them and the mobs. These benefits range from healing the durability of every single item in player's inventories to killing most hostile mobs.
 
 - Carpenter
 
