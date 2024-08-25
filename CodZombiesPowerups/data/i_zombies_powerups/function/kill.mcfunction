@@ -1,0 +1,1 @@
+kill @e[type=item,nbt={Item:{components:{"minecraft:custom_data":{i_zombies_powerups.entity:1b}}}}]

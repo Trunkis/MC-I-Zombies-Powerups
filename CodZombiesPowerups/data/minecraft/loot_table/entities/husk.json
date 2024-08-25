@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "i_zombies_vanilla:entities/husk"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone",
+          "functions": [
+            {
+              "function": "minecraft:set_custom_data",
+              "tag": "{i_zombies_powerups.entity:true}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

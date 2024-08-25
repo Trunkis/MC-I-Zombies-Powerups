@@ -1,0 +1,1 @@
+kill @e[type=#i_zombies_powerups:nukable]

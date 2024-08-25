@@ -1,0 +1,6 @@
+scoreboard objectives add i_zombies_powerups.timer dummy
+scoreboard objectives add i_zombies_powerups.rng dummy
+scoreboard objectives add i_zombies_powerups.expiry_timer dummy
+
+function i_zombies_powerups:cleanup_loop
+function i_zombies_powerups:powerup_visual_loop

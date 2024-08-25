@@ -1,0 +1,1 @@
+execute if score #RNG i_zombies_powerups.rng matches 1 at @e[type=item,nbt={Item:{components:{"minecraft:custom_data":{i_zombies_powerups.entity:1b}}}}] run function i_zombies_powerups:decide_powerup
